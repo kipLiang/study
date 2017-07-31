@@ -6,3 +6,4 @@ wo legequ
 asdf
 
 now i am in zancunqu
+wo zai jinru zancunqu
