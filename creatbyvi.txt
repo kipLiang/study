@@ -2,5 +2,10 @@ this.is new vi
 
 
 
+
 我是admin
 我也有提交怎么办？
+
+我是newnewbranch 我修改了这一行ßß
+
+我是master， 我合并了一下
