@@ -9,3 +9,5 @@ this.is new vi
 我是newnewbranch 我修改了这一行ßß
 
 我是master， 我合并了一下
+
+我有创建了一个分支，我显示是newbranch
