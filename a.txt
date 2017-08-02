@@ -1,1 +1,1 @@
-wo shishi a
+wo shi lw , wo 操作了这次写入，但是我还没有指定远程库，所以看看，我会被push到哪里
